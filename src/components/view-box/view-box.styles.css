@@ -1,0 +1,17 @@
+.phone-container {
+   display: grid;
+   place-items: center;
+   background-color: lightblue;
+   height: 100vh;
+   min-width: 100vw;
+}
+
+.phone {
+   width: 19.5rem;
+   height: 37.5rem;
+   border: 0.85rem solid #192333;
+   border-radius: 2.5rem;
+   background-color: white;
+   box-shadow: 0 0 3rem 0.5rem rgba(0, 0, 0, 0.2), 0 1rem 1.5rem 1rem rgba(0, 0, 0, 0.1);
+   overflow: hidden;
+}
